@@ -1,4 +1,4 @@
-#Project Chapter 3 - due 10/5/2016 5:00 p.m.
+#Project Chapter 3 - due 10/4/2017 5:00 p.m.
 Computing Tax.
 
 The United States federal personal income tax is calculated based on filing status and taxable income. 
